@@ -1,3 +1,7 @@
+# File to process raw output of Grape2 into double-precision floats for further processing.
+# Author:  Michael J. Hauan, AC0G
+# 2024-02-10
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
