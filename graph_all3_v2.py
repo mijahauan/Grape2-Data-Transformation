@@ -1,3 +1,8 @@
+# Script to produce a frequency/amplitude graph and a spectrogram from Grape2 data.
+# Michael J. Hauan, AC0G
+# 2024-02-10
+
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
