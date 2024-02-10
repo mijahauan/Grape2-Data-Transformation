@@ -10,7 +10,7 @@ For instance:
   
 The scripts use the datetime in the filenames so retain that usage.
 
-## Invoke graph_all3_v2.py as follows: 
+### Invoke graph_all3_v2.py as follows: 
 python3 graph_all3_v2.py <path_to_output_CSV_from_transform_v2.py.csv> 
 
 For instance:
