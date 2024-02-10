@@ -2,7 +2,7 @@
 ## Some scripts to process Grape 2 data for WWV5, WWV10, and WWV20.
 
 ### Invoke transform_v2.py as follows: 
-python3 transform_v2.py <input_raw_data.csv> <output-ready-data.csv>
+python3 transform_v2.py <path_to_input_raw_data.csv> <path_to_output_ready_data.csv>
 
 For instance:
 
@@ -11,7 +11,7 @@ For instance:
 The scripts use the datetime in the filenames so retain that usage.
 
 ## Invoke graph_all3_v2.py as follows: 
-python3 graph_all3_v2.py <output_of_transform_v2.py.csv> 
+python3 graph_all3_v2.py <path_to_output_CSV_from_transform_v2.py.csv> 
 
 For instance:
 
